@@ -400,6 +400,12 @@
   color: var(--fg-color-2);
 }
 
-.notion-equation.notion-equation-block{
+.notion-equation.notion-equation-block {
   align-items: center;
+}
+
+/* None Display Notion blocks */
+
+.notion-page-link.notion-block-7d3eb1b44dda44b2bc924cbc34897a28 {
+  display: none;
 }

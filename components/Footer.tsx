@@ -54,7 +54,7 @@ export function FooterImpl() {
       </div>
 
       <div className={styles.social}>
-        {config.twitter && (
+        {/* {config.twitter && (
           <a
             className={styles.twitter}
             href={`https://twitter.com/${config.twitter}`}
@@ -64,7 +64,7 @@ export function FooterImpl() {
           >
             <FaTwitter />
           </a>
-        )}
+        )} */}
 
         {config.mastodon && (
           <a
@@ -101,7 +101,7 @@ export function FooterImpl() {
           </a>
         )}
 
-        {config.linkedin && (
+        {/* {config.linkedin && (
           <a
             className={styles.linkedin}
             href={`https://www.linkedin.com/in/${config.linkedin}`}
@@ -111,7 +111,7 @@ export function FooterImpl() {
           >
             <FaLinkedin />
           </a>
-        )}
+        )} */}
 
         {config.newsletter && (
           <a
