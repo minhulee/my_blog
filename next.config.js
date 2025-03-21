@@ -36,5 +36,7 @@ export default withBundleAnalyzer({
   },
 
   // See https://react-tweet.vercel.app/next#troubleshooting
-  transpilePackages: ['react-tweet']
+  transpilePackages: ['react-tweet'],
+
+  devIndicators: false
 })
