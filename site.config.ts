@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Minhun Lee's Blog",
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'minhulee.vercel.app',
   author: 'Minhun Lee',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Personal blog about development and daily life.',
 
   // social usernames (optional)
   twitter: '#',
